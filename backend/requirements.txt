@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+onnxruntime
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+pydantic==2.6.3

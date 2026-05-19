@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://jayendraupadhyay-cure-ai-backend.hf.space';
 
 const SLIDERS = [
   { key:'age',      label:'Age',                     unit:'years', min:20,  max:100, step:1,   def:45  },

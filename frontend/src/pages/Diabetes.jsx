@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://jayendraupadhyay-cure-ai-backend.hf.space';
 
 const FIELDS = [
   { key:'Pregnancies',             label:'Pregnancies',               unit:'count',   min:0,    max:20,  step:1,   def:1,    col:1 },

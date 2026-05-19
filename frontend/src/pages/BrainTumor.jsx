@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from 'react';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://jayendraupadhyay-cure-ai-backend.hf.space';
 
 const CLASSES = ['Glioma', 'Meningioma', 'No Tumor', 'Pituitary'];
 

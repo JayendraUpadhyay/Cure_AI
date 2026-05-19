@@ -1,3 +1,5 @@
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/bf0f6ba0-b49b-4702-a204-0fecf79385a3" />
+
 # 🏥 Cure AI — Medical Intelligence Platform
 
 <div align="center">
@@ -25,13 +27,15 @@
 ## 📸 Screenshots
 
 ### 🧠 Brain Tumor Detection
-![Brain Tumor Detection](screenshots/brain_tumor.png)
+<img width="800" alt="Screenshot 2026-05-19 125904" src="https://github.com/user-attachments/assets/3439a78d-3367-4c20-9600-68352516d7f3" />
+
 
 ### 🩸 Diabetes Risk Assessment
-![Diabetes Assessment](screenshots/diabetes.png)
+<img width="800" alt="Screenshot 2026-05-19 125930" src="https://github.com/user-attachments/assets/73c55ebc-82cd-4dea-ae01-319a7a147d8a" />
 
 ### ❤️ Heart Disease Prediction
-![Heart Disease](screenshots/heart.png)
+<img width="800" alt="Screenshot 2026-05-19 130011" src="https://github.com/user-attachments/assets/bafea1a4-f30b-49cd-8063-ac53ee155ebc" />
+
 
 ---
 
